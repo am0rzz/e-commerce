@@ -24,7 +24,7 @@ This is a RESTful API for a simple e-commerce platform, built with Django and Dj
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/](https://github.com/)<Your-GitHub-Username>/ecommerce-api.git
+    git clone https://github.com/am0rzz/e-commerce.git
     cd ecommerce-api
     ```
 
@@ -68,3 +68,5 @@ Here is a list of the available endpoints.
 | `/api/products/<id>/` | `GET` | View a single product. | No |
 | `/api/products/<id>/` | `PUT` | Update a product. | Yes |
 | `/api/products/<id>/` | `DELETE` | Delete a product. | Yes |
+
+NOTE: I made this readme using AI, so excuse any errors. 
